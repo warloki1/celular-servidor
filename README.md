@@ -10,7 +10,7 @@
 
 Este guia documenta o processo completo de transformar um celular Android antigo (no caso, um **Motorola G23** com tela quebrada, 3.67 GB de RAM e Android 14) em um servidor de arquivos pessoal acessível pela rede local.
 
-Aqui irei usar o Copyparty, porque meu celular é um lixo e o NextCloud usa bastante memória RAM, se tiver um celular melhor que o especificado, pode usar o Nextloud, que é uma ferramenta até melhor, expandindo muito o que se pode fazer.
+Aqui irei usar o Copyparty, porque meu celular é um lixo e o NextCloud usa bastante memória RAM, se tiver um celular melhor que o especificado, pode usar o Nextcloud, que é uma ferramenta até melhor, expandindo muito o que se pode fazer.
 
 **O que você vai aprender:**
 - Instalar e configurar o Termux no Android
